@@ -14,7 +14,7 @@ Here are the items that I have collected from the nurses:
 
 ---'name' - This variable refers to the name of each individual in the dataset, and it does not have a measurement unit.
 
----'date' - This variable refers to the date when the data was collected, and it is typically measured in a standard date format, such as YYYY-MM-DD.
+---'date' - This variable refers to the date when the data was collected, and it is typically measured in a standard date format, such as DD/MM/YYYY.
 
 ---'age' - This variable refers to the age of each individual in the dataset, and it is typically measured in years.
 
