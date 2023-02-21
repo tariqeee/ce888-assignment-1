@@ -6,6 +6,8 @@ CE-888
 I would like to inform you that this is my own data. I created all of the data using the units listed below. Once I had loaded the dataset from my own GitHub account, I conducted research on 100 nurses and collected data using smartwatches. This data is only for this assignment.
 I created all the data in one CVS file and load from one file. 
 
+Note: I can use this data " Ravi, M. S. Stress-detection-in-nurse. https://github.com/CPHSLab/Stress-Detection-in-Nurses (2021)." from this url but I try to make own data. 
+
 Here are the items that I have collected from the nurses:
 
 ---'ID' - This is a unique identifier for each individual in the dataset, and it does not have a measurement unit.
