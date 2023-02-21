@@ -1,0 +1,45 @@
+
+Assignment-1 
+Md Tariqul Islam 
+CE-888
+
+I would like to inform you that this is my own data. I created all of the data using the units listed below. Once I had loaded the dataset from my own GitHub account, I conducted research on 200 nurses and collected data using smartwatches. This data is only for this assignment.
+I created all the data in one CVS file and load from one file. 
+
+Here are the items that I have collected from the nurses:
+
+---'ID' - This is a unique identifier for each individual in the dataset, and it does not have a measurement unit.
+
+---'Group_No' - This is a variable used to group or categorize individuals in the dataset, and it does not have a measurement unit.
+
+---'name' - This variable refers to the name of each individual in the dataset, and it does not have a measurement unit.
+
+---'date' - This variable refers to the date when the data was collected, and it is typically measured in a standard date format, such as YYYY-MM-DD.
+
+---'age' - This variable refers to the age of each individual in the dataset, and it is typically measured in years.
+
+---'Body_temperature' - This variable refers to the body temperature of each individual, and it is typically measured in degrees Fahrenheit or degrees Celsius.
+
+---'Stress_level' - This variable refers to the level of stress experienced by each individual, and it may be measured using a scale, such as a Likert scale or a numerical rating scale.
+
+---'Blood_pressure' - This variable refers to the blood pressure of each individual, and it is typically measured in millimeters of mercury (mmHg).
+
+---'Heart_rate' - This variable refers to the heart rate of each individual, and it is typically measured in beats per minute (bpm).
+
+---'steps_taken' - This variable refers to the number of steps taken by each individual, and it is typically measured in steps.
+
+---'Electrodermal_activity' - This variable refers to the level of electrodermal activity (EDA) of each individual, which is a measure of the electrical conductance of the skin. EDA is typically measured in microsiemens (μS).
+
+---'Blood_oxygen_saturation' - This variable refers to the blood oxygen saturation level of each individual, and it is typically measured as a percentage.
+
+---'light_sleep' - This variable refers to the amount of time spent in light sleep by each individual, and it is typically measured in minutes.
+
+---'distance_traveled' - This variable refers to the distance traveled by each individual, and it is typically measured in miles or kilometers.
+
+---'cycling' - This variable refers to the amount of time spent cycling by each individual, and it is typically measured in minutes.
+
+---'barometric_pressure' - This variable refers to the barometric pressure of the environment in which the data was collected, and it is typically measured in inches of mercury (inHg) or millibars (mb).
+
+---'Suspect_sex' - This variable refers to the suspected sex of each individual, and it does not have a measurement unit.
+
+---'no_of_days' - This variable refers to the number of days for which the data was collected, and it is typically measured in days.
